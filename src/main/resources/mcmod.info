@@ -1,16 +1,16 @@
 [
   {
-    "modid": "NaturalAbsorptionCommands",
-    "name": "NaturalAbsorptionCommands",
-    "description": "",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "",
+    "modid": "naturalabsorptioncommands",
+    "name": "NAbsorption Commands",
+    "description": "Adds usable commands for your 1.12 installation of Natural Absorption",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "https://matthe815.dev",
     "updateUrl": "",
-    "authorList": [],
-    "credits": "",
-    "logoFile": "",
+    "authorList": ["Matthe815"],
+    "credits": "Matthe815",
+    "logoFile": "assets/naturalabsorptioncommands/logo.png",
     "screenshots": [],
-    "dependencies": []
+    "dependencies": ["naturalabsorption"]
   }
 ]
